@@ -1,4 +1,4 @@
-# React Native Note App · RESTful API
+# API App · RESTful API
 
 A clean, simple note‑taking app built with **React Native** and a **Node/Express REST API**. Create, search, sort, update, and organize notes by category — all from a fast, native UI.
 
